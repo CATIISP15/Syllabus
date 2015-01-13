@@ -1,5 +1,5 @@
 
-### Interactive Installation Syllabus 
+# Interactive Installation Syllabus 
 
 * **CAT 360 07**
 * **Interactive Installation**
@@ -7,7 +7,7 @@
 * **Fridays: Open Studios 2 - 4 pm**
 * **Instructor: Katherine Bennett – Katherine_Bennett@bloomfield.edu**
 
-### Interactive Installation
+## Interactive Installation
 
 What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Software (Max/MSP/Jitter), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of mechanisms (edge detection, color tracking, capacitance sensors, presence sensors, custom switches, etc) will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation.
 
