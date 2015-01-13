@@ -1,11 +1,11 @@
 
 # Interactive Installation Syllabus 
 
-**CAT 360 07**
-**Interactive Installation**
-**Friday 10:00 am – 1:45 pm, Westminster B16**
-**Fridays: Open Studios 2 - 4 pm**
-**Instructor: Katherine Bennett – Katherine_Bennett@bloomfield.edu**
+* **CAT 360 07**
+* **Interactive Installation**
+* **Friday 10:00 am – 1:45 pm, Westminster B16**
+* **Fridays: Open Studios 2 - 4 pm**
+* **Instructor: Katherine Bennett – Katherine_Bennett@bloomfield.edu**
 
 ##Interactive Installation
 
