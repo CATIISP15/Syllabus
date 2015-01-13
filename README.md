@@ -150,14 +150,15 @@ It’s imperative for you to be active in class – in discussion, research, and
 -	Use Github for reference to the syllabus, as well as turning in assignments. You can find the class repository at https://github.com/CATIISP15
 -	Use Wordpress to document your projects with images and video
 
-# Show & Tell Presentations:
+## Show & Tell Presentations:
 In the first week, you will either volunteer or be assigned to 2 people from the list below. On the assigned date, bring in 2-3 examples each person/group’s of their work. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. Do not be lame. Be informed. Do not read from your slides. In addition to Googling the people/projects, I encourage you to check out Eyeo’s website and Vimeo page, as well as Creative Applications site. Create a Keynote, Powerpoint or Google Drive presentation. Prepare the presentation to be 10-15 minutes TOTAL. After your presentation, upload your presentation after exporting it as a PDF. Upload the presentation PDF, titled with the Artist/Designer names, to the GitHub repo “Show & Tell Presentations.”
 
-	Show & Tell Deliverables:
+Show & Tell Deliverables:
+
 -	(1) 10-15 minute presentation of the all of the Artists/Designers allocated for that numeral. Must be prepared, researched and practiced.
 -	Submit your presentation as a PDF to the git repo – Show & Tell, with the Artists/Designers names as the title with the roman numeral
  
-	 Show & Tell Choices: (13)
+Show & Tell Choices: (13)
 
 - I.	Jeffery Shaw & Myron Kruger (pioneers)
 - II.	United Visual Artist & SOFTLab (installation)
