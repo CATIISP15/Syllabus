@@ -292,23 +292,23 @@ IV: Rafael Lozano-Hemmer & Nils Voelker
 - Workshop PM: Basic Circuits, DIY switches
 
 #### Homework:
-Read: “Responsive Environments” by Myron Krueger
-Exercise 1: Create 2 different DIY switches that turn on an LED
+- Read: “Responsive Environments” by Myron Krueger
+- Exercise 1: Create 2 different DIY switches that turn on an LED
 Work on Developing DIY Switches. Post progress images and video to your blog.
  
-Week 4: February 6 - V: Camille Utterback & Tangible Interaction 
+### Week 4: February 6 - V: Camille Utterback & Tangible Interaction 
 VI: Electroland & YesYesNo
-Discussion: Responsive Environments
-Workshop AM: DIY Switches 
-Workshop PM: Introduction to Max/MSP - bangs, buttons, integers, floats, selects, prints, if statements, counter, route, lists
+- Discussion: Responsive Environments
+- Workshop AM: DIY Switches 
+- Workshop PM: Introduction to Max/MSP - bangs, buttons, integers, floats, selects, prints, if statements, counter, route, lists
 
-Homework:
+#### Homework:
 	Reading: 
 “Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
-Read and work through Max Tutorials: 1-6
-	Do:
-		Finish Exercise 1: DIY switches
-		Work through Max Tutorials: 1-6
+- Read and work through Max Tutorials: 1-6
+	
+- Finish Exercise 1: DIY switches
+- Work through Max Tutorials: 1-6
 
 Week 5: February 13 – VII: Deep Local & Niklas Roy | 
 VIII: Daily tous les Jours (Mouna Andraos) & Random International
