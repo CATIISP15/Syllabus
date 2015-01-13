@@ -80,6 +80,14 @@ A typical day will aim for the following schedule:
 - 12:15 - 1:30 Pair programming workshop for class exercises 
 - 1:30 - 1:45 Tickets to Leave
  
+### Important Aspects of this Course
+
+Pair programming is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due either at the end of the class period or the next class period (unless specified).  Yet, the exercise is meant to be worked on together - on one laptop, in one program.
+
+These exercises are to turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits (it’s like Time Machine, but better). See the assigned reading links for more information.
+
+Time. Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-10 hours outside of class to succeed.
+
 ### Grading:
 
 Your final grade will be based on a synthesis of quantitative and qualitative rubrics:
@@ -257,6 +265,7 @@ MidTerm
  
 ## Schedule (subject to change):
 
+
 ### Week 1: January 16 – Hello, Defining Interactive Installation
 
 - Links
@@ -357,7 +366,6 @@ Max/MSP and control structures/objects – sub-patchers, abstractions, mini-patc
 
 
 ### SPRING BREAK – March 9 - 13
- 
 ### Week 9: March 20  – 
 
 - Physical Computing Workshop: Max integration; Sensor input into Max
