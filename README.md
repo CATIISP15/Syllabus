@@ -269,7 +269,7 @@ MidTerm
 #### Homework: 
 - Workshop – Create a space, change a space
 - Read: “The Poetics of Interactivity” by Margaret Morse
-- Sign up for show and tell 
+- Sign up for show and tell via the Google Calendar
 - Sign up for Github & Send me your handle
 - Create a blog at Wordpress. Send me the link
 
@@ -280,12 +280,11 @@ Installations, Workshop Project 1: Create a space, change a space
 #### Homework: 
 	
 - Read: “The Poetics of Interactivity” by Margaret Morse
-	
 - Work on Project 1
+- Sign up for show and tell via the Google Calendar
 - Bring in needle, needle threader, scissors, small paintbrush, clip leads, small breadboard, 9V battery 
 
-### Week 3: January 30 – III: Sabrina Raaf & David Rokeby 
-IV: Rafael Lozano-Hemmer & Nils Voelker
+### Week 3: January 30 – III: Sabrina Raaf & David Rokeby & IV: Rafael Lozano-Hemmer & Nils Voelker
 
 - Critique: Project 1: Create a space, change a space 
 - Discussion: Margaret Morse Reading
@@ -296,126 +295,123 @@ IV: Rafael Lozano-Hemmer & Nils Voelker
 - Exercise 1: Create 2 different DIY switches that turn on an LED
 Work on Developing DIY Switches. Post progress images and video to your blog.
  
-### Week 4: February 6 - V: Camille Utterback & Tangible Interaction 
-VI: Electroland & YesYesNo
+### Week 4: February 6 - V: Camille Utterback & Tangible Interaction & VI: Electroland & YesYesNo
 - Discussion: Responsive Environments
 - Workshop AM: DIY Switches 
 - Workshop PM: Introduction to Max/MSP - bangs, buttons, integers, floats, selects, prints, if statements, counter, route, lists
 
 #### Homework:
-	Reading: 
+Reading: 
 “Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
 - Read and work through Max Tutorials: 1-6
-	
 - Finish Exercise 1: DIY switches
 - Work through Max Tutorials: 1-6
 
-Week 5: February 13 – VII: Deep Local & Niklas Roy | 
+### Week 5: February 13 – VII: Deep Local & Niklas Roy | 
 VIII: Daily tous les Jours (Mouna Andraos) & Random International
 
-Discussion: Transforming Mirrors
-Workshop AM: Critique – Exercise 1: Switches
-Taking good documentation – post to your blog
-Workshop PM: Max/MSP and Sound – sfplay, groove, buffer, line, timing
+- Discussion: Transforming Mirrors
+- Workshop AM: Critique – Exercise 1: Switches
+- Taking good documentation – post to your blog
+- Workshop PM: Max/MSP and Sound – sfplay, groove, buffer, line, timing
 
-Homework:
-Exercise 2: Create a Max patch that prints out the numbers 1 to 100 (inclusive). If the number is divisible by 3, printCrackle instead of the number. If it's divisible by 5, print Pop. If it's divisible by both 3 and 5, printCracklePop. Submit through the the GitHub repo.
+#### Homework:
+- Exercise 2: Create a Max patch that prints out the numbers 1 to 100 (inclusive). If the number is divisible by 3, printCrackle instead of the number. If it's divisible by 5, print Pop. If it's divisible by both 3 and 5, printCracklePop. Submit through the the GitHub repo.
 
-Read and work through Max Tutorials: 8; MSP Tutorials: 1-2, 14, 16
+- Read and work through Max Tutorials: 8; MSP Tutorials: 1-2, 14, 16
 		
 
-Week 6: February 20 – IX: Design I/O & Golan Levin 
-X: The Exploratorium & Disney Research
+### Week 6: February 20 – IX: Design I/O & Golan Levin & X: The Exploratorium & Disney Research
 
-Workshop: Max/MSP and Sound 
+- Workshop: Max/MSP and Sound 
 
-Homework:
+#### Homework:
 
-Exercise 3: Create a patch in Max/MSP that plays a sound. Do not just cut and paste the help files together, but create a patch that is unique. Thinking about what you are controlling and how you are controlling it. Have fun. Take risks. Explore. Submit your patch to the GitHub repo.
+- Exercise 3: Create a patch in Max/MSP that plays a sound. Do not just cut and paste the help files together, but create a patch that is unique. Thinking about what you are controlling and how you are controlling it. Have fun. Take risks. Explore. Submit your patch to the GitHub repo.
 
 Ideas to consider: custom buttons, presets, select object, etc
  
-Week 7: February 27 – 
+### Week 7: February 27 – 
 
 Max/MSP and control structures/objects – sub-patchers, abstractions, mini-patch portals, random, change, timing, input (mouse, keyboard)
 
-Homework:
+#### Homework:
 
-Exercise 4: Re-work exercise 2 & 3, building off of them to create a patch by adding more sophisticated control structures (random, time, etc), abstractions and sub-patchers. Submit your patch to the GitHub repo.
+- Exercise 4: Re-work exercise 2 & 3, building off of them to create a patch by adding more sophisticated control structures (random, time, etc), abstractions and sub-patchers. Submit your patch to the GitHub repo.
 
-	Read and Work through Jitter Tutorials: 1 – 15, 21
+- Read and Work through Jitter Tutorials: 1 – 15, 21
 
-Week 8: March 6 - XI: eCloud, Julius Popp, Jim Campbell  
+### Week 8: March 6 - XI: eCloud, Julius Popp, Jim Campbell  
 
-Workshop: Max/MSP & Jitter – basics, iter, 3m, rota, op, brocosa
-Final Project Brief released
+- Workshop: Max/MSP & Jitter – basics, iter, 3m, rota, op, brocosa
+- Final Project Brief released
 
-Homework:
-Exercise 5: Create a Max patch that modulates video based on some system – whether mathematically or user input. Submit the patches to the GitHub repo.
+#### Homework:
+- Exercise 5: Create a Max patch that modulates video based on some system – whether mathematically or user input. Submit the patches to the GitHub repo.
 
-MidTerm Self Assessment
+- MidTerm Self Assessment
 
-Extra Credit Op: Create a new Max patch the moderate and manipulates media over time. Bonus points for taking some sort of input beyond the basics. 
+- Extra Credit Op: Create a new Max patch the moderate and manipulates media over time. Bonus points for taking some sort of input beyond the basics. 
 
-Prepare for Final Project Roundtable by preparing 3 sketches for 5 different installation ideas. Use the handout to sketch out each idea/theme. Use 3 boxes for each installation, describing what happens over time. Bring the drawings, media and inspirational artists/designers/projects to show in class next week. Identify 3 spaces that you would like to use for your final project
+- Prepare for Final Project Roundtable by preparing 3 sketches for 5 different installation ideas. Use the handout to sketch out each idea/theme. Use 3 boxes for each installation, describing what happens over time. Bring the drawings, media and inspirational artists/designers/projects to show in class next week. Identify 3 spaces that you would like to use for your final project
 
 
-SPRING BREAK – March 9 - 13
+### SPRING BREAK – March 9 - 13
  
-Week 9: March 20  – 
+### Week 9: March 20  – 
 
-Physical Computing Workshop: Max integration; Sensor input into Max
-Final Project Roundtable 
+- Physical Computing Workshop: Max integration; Sensor input into Max
+- Final Project Roundtable 
 	
-Homework:
-Exercise 6: Using your custom switches, control a Max patch one of your submitted exercises (2-5). Document the circuit with detailed images of the circuit and document the interaction (both input and output). Submit these images along with the video and patch to the GitHub repo.
+#### Homework:
+- Exercise 6: Using your custom switches, control a Max patch one of your submitted exercises (2-5). Document the circuit with detailed images of the circuit and document the interaction (both input and output). Submit these images along with the video and patch to the GitHub repo.
 
-Week 10: March 27 
-AM: OpenCV - Computer Vision – edge detection/frame difference, blob tracking
-Final Project Roundtable 
+### Week 10: March 27 
+- AM: OpenCV - Computer Vision – edge detection/frame difference, blob tracking
+- Final Project Roundtable 
 
-PM:  Exercise 7: Take Exercise 5 and integrate computer vision to affect the video as input. Set this up in your chosen space. Document interaction (video). Submit that along with your patch and associated media via the GitHub repo.
+- Exercise 7: Take Exercise 5 and integrate computer vision to affect the video as input. Set this up in your chosen space. Document interaction (video). Submit that along with your patch and associated media via the GitHub repo.
 
-Homework:
-Work on Exercise 7 & Final
-Read: “History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
+#### Homework:
+- Work on Exercise 7 & Final
+- Read: “History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
 
-Week 11: April 10 - XII: Universal Everything, Karolina Sobekecka (Flightphase), Nemore
+### Week 11: April 10 - XII: Universal Everything, Karolina Sobekecka (Flightphase), Nemore
 
-Workshop: Kinect
-Discuss Dinkla reading.
-Work in your spaces
+- Workshop: Kinect
+- Discuss Dinkla reading.
+- Work in your spaces
 
-Homework:
-Work on Final
+#### Homework:
+- Work on Final
 
 
-Week 12: April 17 – 
+### Week 12: April 17 – 
 
-AM Workshop: By Request
+- AM Workshop: By Request
 		
 
-Homework:
-Work on Final – post to github.
+#### Homework:
+- Work on Final – post to github.
  
-Week 13: April 24  - XIII: Christa Sommerer & Laurent Migonneau, Ryan Habbyshaw
+### Week 13: April 24  - XIII: Christa Sommerer & Laurent Migonneau, Ryan Habbyshaw
 
-Final Working Prototype Due. Must be set-up and working in your chosen space.
-Studio Time
+- Final Working Prototype Due. Must be set-up and working in your chosen space.
+- Studio Time
 
-Homework:
-	Work on Final Project. Document your progress!
+#### Homework:
+- Work on Final Project. Document your progress!
 
-Week 14: May 1 
+### Week 14: May 1 
 
-AM Workshop: One-on-ones
-		
-		Studio time
-Homework:
-	Work on Final Project 
+- AM Workshop: One-on-ones
+- Studio time
+
+#### Homework:
+- Work on Final Project 
 	
-Week 15: May 8 – Final Exams
+### Week 15: May 8 – Final Exams
 
-Final Critiques (code to GitHub), Documentation Due (blog), Final Self-Assessment Due (email)
+### Final Critiques (code to GitHub), Documentation Due (blog), Final Self-Assessment Due (email)
 
 
