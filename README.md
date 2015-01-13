@@ -1,5 +1,5 @@
 
-# Interactive Installation Syllabus 
+### Interactive Installation Syllabus 
 
 * **CAT 360 07**
 * **Interactive Installation**
@@ -7,15 +7,15 @@
 * **Fridays: Open Studios 2 - 4 pm**
 * **Instructor: Katherine Bennett – Katherine_Bennett@bloomfield.edu**
 
-##Interactive Installation
+### Interactive Installation
 
 What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Software (Max/MSP/Jitter), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of mechanisms (edge detection, color tracking, capacitance sensors, presence sensors, custom switches, etc) will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation.
 
-##Objectives:
+### Objectives:
 
 Students will gain a vocabulary for interactivity and learn a variety of tools and techniques to create interactive installations, including color tracking, edge detection, sensors, basic electronics and physical computing. Students will gain knowledge of different methods to create interactive installations including: installations for 1 person, many people, time dependent or input dependent. Students will understand the difference between reactive, interactive and dynamically changing systems. The Final Project is creating a full scale and dynamic installation using both digital and physical means.
 
-Pre-requisites:
+### Pre-requisites:
 
 This course assumes no prior knowledge of Max/MSP, programming and electronics. Yet, at the same time, this course does presume that students will:
 -	Be on-time and prepared for class
@@ -32,7 +32,8 @@ This course assumes no prior knowledge of Max/MSP, programming and electronics. 
 -	Be willing to fail and learn from your mistakes (Rise up!)
 -	Take responsibility. No whining.
 -	Be respectful of others. Help others in their ideas.
-Requirements:
+
+### Requirements:
 
 -	Show and Tell – 1++ presentations – see below
 -	Self Assessments – see below
@@ -45,20 +46,20 @@ Requirements:
 -	Physical notebook or sketch book & Evernote
 -	Staple guns, string, tacks, hot glue guns, fishing line, etc
 
-Technology in the Classroom:
+### Technology in the Classroom:
 
 Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. As a general rule, the following uses are unacceptable: checking e-mail, instant messaging, texting, using Facebook, Google+, Flickr, Instagram, or other social networking sites. The quality of the class depends in large part on the quality of your attention and active participation. In particular, give your fellow students the respect you deserve in return, and close your laptop and give them your full attention when they are presenting work. Otherwise, you will be requested to close your laptop/phone in order to give the class your full attention.
 
 College Policies on Technology can be found in the Course Catalogue.
 
-Academic Integrity:
+### Academic Integrity:
 
  Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material, and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System.  Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
 
 Please see the Student Handbook for further information regarding this, including procedures taken for addressing such violations.  Procedures may include, but are not limited to: failing the assignment, failing the course, going in front of an academic judicial council and possible suspension from school.  Violations will not be tolerated.
 
 
-Educational Accessibility: 
+### Educational Accessibility: 
 
 Bloomfield College is committed to assuring equal educational opportunity and full participation for all students.  The mission of the Office of Educational Accessibility is to provide individuals with disabilities the same access to programs and activities as other students.  We assist students to maximize their potential while helping them develop and maintain independence.
 
@@ -66,28 +67,31 @@ Students who believe they are eligible for course accommodations under the ADA o
 
 Even if you think you have a handle on your situation, please see the OSD. They will communicate what I need to do, in order to be sensitive to your needs. This is important in creating an equal opportunity environment. I cannot do so without this material.
 
-Course Structure
+### Course Structure
+
 This is a studio course. Students will work on individual projects and group collaborations. Work will be completed both inside and outside of the class. Class will be a mix of lectures, class discussion, Show & Tell, workshops, studio time and critiques. Guest critics may be present.
 The course can be broken down into 3 sections: installation, reactivity + programming, interactive installation. We will cover: space, circuits, Max, sound, Jitter (video), Arduino, OpenCV and the Kinect, all while talking about interactivity.
+
 A typical day will aim for the following schedule:
-10:00 - 11:30 Demo/Lecture/Workshop/Discussion
-11:30 - 12:00 Show & Tell Presentations
-short break
-12:15 - 1:30 Pair programming workshop for class exercises 
-1:30 - 1:45 Tickets to Leave
+
+- 10:00 - 11:30 Demo/Lecture/Workshop/Discussion
+- 11:30 - 12:00 Show & Tell Presentations
+- - short break
+- 12:15 - 1:30 Pair programming workshop for class exercises 
+- 1:30 - 1:45 Tickets to Leave
  
-Grading:
+### Grading:
 
 Your final grade will be based on a synthesis of quantitative and qualitative rubrics:
 
 Quantitative Overview
 
-In-class Show & Tell presentations: 5%
-In-class discussions (readings & roundtable feedback), critiques: 10%
-Self-assessments: 5%
-Project 1: Change a Space: 15%
-Exercises: 35% (5% each)
-Project 2: Final Project: 30% (5% roundtable presentation, 10% Prototype, 15% Final)
+- In-class Show & Tell presentations: 5%
+- In-class discussions (readings & roundtable feedback), critiques: 10%
+- Self-assessments: 5%
+- Project 1: Change a Space: 15%
+- Exercises: 35% (5% each)
+- Project 2: Final Project: 30% (5% roundtable presentation, 10% Prototype, 15% Final)
 
 Each assignment will be allotted a certain number of points. For example, Show & Tell presentations are worth 8 points, 2 points for each required aspect. The points are given based on those aspects, and also how thorough and crafted those aspects are presented. If you receive 8 points, you have an 8/8 or a 100% for your Show and Tell grade which is worth 3% of your final grade. If you receive 6/8, you have a 75% for your Show & Tell grade. If you have a 3/8, you have a 37.5% for your Show & Tell grade. If you do not do your Show & Tell, you get a 0%.
 Qualitative Overview
@@ -108,14 +112,15 @@ Performance, participation, and attendance of the student have been less than ad
 F.	Unacceptable
 Performance, participation, and attendance of the student have been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. Work submissions are missing, either in parts or completely missing.
 The numerical breakdown for letter grades is as follows:
-A  100-90 	Excellent 
-B  89-80 	Very Good/Good
-C  79-70 	Satisfactory
-D  69-63 	 Poor, Below Average
-F 63 & below	Unacceptable
+- A  100-90 	Excellent 
+- B  89-80 	Very Good/Good
+- C  79-70 	Satisfactory
+- D  69-63 	 Poor, Below Average
+- F 63 & below	Unacceptable
+
 The Bloomfield College Grading Policy can be found in the current Course Catalog.
 
-Attendance:
+### Attendance:
 -	Attendance will be taken at the beginning of every class
 -	Be on time! Lateness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop.
 -	Critique days are mandatory. No exceptions. No tardiness.
@@ -125,10 +130,10 @@ Attendance:
 -	Work is due on due dates, regardless if you are here or not. Turn it in, electronically. If need be, attached clear images and video.
 -	It is your responsibility to find out what you missed from your classmates and the syllabus, then to cover that material on your own.
 
-Participation:
+### Participation:
 	It’s imperative for you to be active in class – in discussion, research, and activity inside and outside of class. We are a community and your part is key.
  
-Communication:
+### Communication:
 -	CHECK YOUR BLOOMFIELD EMAIL. Everyone must use his or her Bloomfield email address for this class and all correspondence, as outlined by the Vice President.  I will be emailing you throughout the semester with announcements about class, projects, grades, web links, etc.  You are required to check your email several times a week, especially before class meets.
 
 -	Email me from your Bloomfield email account 
@@ -137,34 +142,34 @@ o	I do greatly appreciate an email if you are going to be late, need to leave ea
 -	Use Github for reference to the syllabus, as well as turning in assignments. You can find the class repository at https://github.com/CATIISP15
 -	Use Wordpress to document your projects with images and video
 
-Show & Tell Presentations:
+### Show & Tell Presentations:
 In the first week, you will either volunteer or be assigned to 2 people from the list below. On the assigned date, bring in 2-3 examples each person/group’s of their work. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. Do not be lame. Be informed. Do not read from your slides. In addition to Googling the people/projects, I encourage you to check out Eyeo’s website and Vimeo page, as well as Creative Applications site. Create a Keynote, Powerpoint or Google Drive presentation. Prepare the presentation to be 10-15 minutes TOTAL. After your presentation, upload your presentation after exporting it as a PDF. Upload the presentation PDF, titled with the Artist/Designer names, to the GitHub repo “Show & Tell Presentations.”
 
-Show & Tell Deliverables:
+## Show & Tell Deliverables:
 -	(1) 10-15 minute presentation of the all of the Artists/Designers allocated for that numeral. Must be prepared, researched and practiced.
 -	Submit your presentation as a PDF to the git repo – Show & Tell, with the Artists/Designers names as the title with the roman numeral
  
-Show & Tell Choices: (13)
+## Show & Tell Choices: (13)
 
-I.	Jeffery Shaw & Myron Kruger (pioneers)
-II.	United Visual Artist & SOFTLab (installation)
-III.	Sabrina Raaf & David Rokeby (interactive installations)
-IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-V.	Camille Utterback & Tangible Interaction (interactive installations)
-VI.	Electroland & YesYesNo (interactive installations)
-VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
-VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful)
-IX.	Design I/O & Golan Levin (playful)
-X.	The Explorartorium & Disney Research (Design for others)
-XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)
-XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) 
-XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)
+- I.	Jeffery Shaw & Myron Kruger (pioneers)
+- II.	United Visual Artist & SOFTLab (installation)
+- III.	Sabrina Raaf & David Rokeby (interactive installations)
+- IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+- V.	Camille Utterback & Tangible Interaction (interactive installations)
+- VI.	Electroland & YesYesNo (interactive installations)
+- VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
+- VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful)
+- IX.	Design I/O & Golan Levin (playful)
+- X.	The Explorartorium & Disney Research (Design for others)
+- XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)
+- XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) 
+- XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)
 
-Blog, Sketchbook, Evernote
+### Blog, Sketchbook, Evernote
 	You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
 	Create a (free) blog only for this class at WordPress. You will be using this to document your process and products. Make sure you label each picture and write about each post.
 
-Self-Assessments – MidTerm and Final
+### Self-Assessments – MidTerm and Final
 
 After the MidTerm and on the last day of class, submit a self-assessment addressing the following, via email. Please be professional, honest and self-reflective.
 
@@ -176,7 +181,7 @@ After the MidTerm and on the last day of class, submit a self-assessment address
 6.	What are your open issues?
 7.	How has your knowledge towards the subject changed?
  
-Deliverables for the Roundtable Discussions for Final Projects
+### Deliverables for the Roundtable Discussions for Final Projects
 
 Roundtable discussions will take place the week after the Spring Break and the Final Project briefs are released. These are in class discussions regarding your ideas for these projects. It’s an opportunity to bounce ideas off the group in order to get good feedback. This ensures a strong project that meets the minimum project requirements while investigating your conceptual interests.
 
@@ -190,12 +195,12 @@ You must have 3 separate/different ideas for EACH roundtable. Post the materials
 -	What space would this use on campus?
 -	What is the interface?
 
-Deliverables for the Final Prototypes
+### Deliverables for the Final Prototypes
 For your Final Projects, you need to break down your idea into discernable steps/milestones in order to bring it into fruition. Each stage/milestone needs to be achieved before moving onto the next. This allows for the focused construction of your idea. I will assist you in identifying these steps/milestones, on a case-by-case basis based on your project idea.
 
 The prototype is a working framework or proof of concept. This isn’t your idea in full complex working form, but it is assembled enough so that the concept is evident. Bugs still need to be worked out. More media needs to be added. Perhaps some sophisticated stages have yet to be reached. But, some hurdles have been crossed, by this point, and you have a clear idea of what you need to be working on and where you need to be focusing the remainder of your time. (continued)
  
-Deliverables for Prototypes:
+### Deliverables for Prototypes:
 -	First stage achieved – a working patch showing basic functionality
 -	Some media acquired
 -	Identification of next stages
@@ -215,17 +220,17 @@ o	Initial working patches and previous versions
 o	Documentation of things working: Video and Images showcasing development: circuits, working circuits, initial set-ups in space, physical items in those spaces
 o	Sketches, including initial comic book and subsequent sketches
 
-Project Descriptions
+### Project Descriptions
 
-Change a Space
+## Change a Space
 
 Using brown roll paper as your main tool/item, transform a space. Think about how people move through the space. Create a mood or emotional by changing the architecture of the space. You may use hot glue, tacks, stapler guns, natural light, string, fishing line, tearing, scissors, etc for assemblage
 
-Final
+## Final
 
 Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret Morse “The Poetics of Interactivity”, create an interactive installation that responds to the viewer based on some form of input. Remember the tales of Myron Krueger with his installation inputs and outputs in “Responsive Environments.” The interaction must be meaningful with the content and the output should be engaging to a group of people. This environment should use either digital or physical inputs that create an engaging experience with the viewer. Think of how the output and the input cover an area or space. 
  
-Course Resources
+### Course Resources
 -	http://www.kobakant.at/DIY/?p=792 – DIY custom switches 
 -	https://cycling74.com/docs/max5/tutorials/max-tut/maxindex.html
 -	https://cycling74.com/docs/max5/tutorials/msp-tut/mspindex.html
@@ -240,7 +245,7 @@ Course Resources
 -	 http://hackaday.com/  - Great blog about working projects
 - 	http://hackingforartists.com/ - Awesome. Tons of info
 
-Required Readings
+### Required Readings
 	“The Poetics of Interactivity” by Margaret Morse
 	“Responsive Environments” by Myron Krueger
 “Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
@@ -249,9 +254,9 @@ MidTerm
 	“History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
 
  
-Schedule (subject to change):
+### Schedule (subject to change):
 
-Week 1: January 16 – Hello, Defining Interactive Installation
+## Week 1: January 16 – Hello, Defining Interactive Installation
 
 Links
 Previous works
