@@ -76,7 +76,7 @@ A typical day will aim for the following schedule:
 
 - 10:00 - 11:30 Demo/Lecture/Workshop/Discussion
 - 11:30 - 12:00 Show & Tell Presentations
-- - short break
+-  short break
 - 12:15 - 1:30 Pair programming workshop for class exercises 
 - 1:30 - 1:45 Tickets to Leave
  
@@ -131,14 +131,14 @@ The Bloomfield College Grading Policy can be found in the current Course Catalog
 -	It is your responsibility to find out what you missed from your classmates and the syllabus, then to cover that material on your own.
 
 ### Participation:
-	It’s imperative for you to be active in class – in discussion, research, and activity inside and outside of class. We are a community and your part is key.
+It’s imperative for you to be active in class – in discussion, research, and activity inside and outside of class. We are a community and your part is key.
  
 ### Communication:
 -	CHECK YOUR BLOOMFIELD EMAIL. Everyone must use his or her Bloomfield email address for this class and all correspondence, as outlined by the Vice President.  I will be emailing you throughout the semester with announcements about class, projects, grades, web links, etc.  You are required to check your email several times a week, especially before class meets.
 
 -	Email me from your Bloomfield email account 
-o	If you find yourself emailing me a problem or an issue that exceeds 5 sentences, you need to meet with me, in person, to discuss that topic.  Please contact me about setting up a time. I’d happily meet you in person, during office hours, before class or after class. Do not assume that it’s okay to tell me about some major issue at a deadline. Ex. 10:10am on Critique day. It is not okay. Would you do that to your boss or client? No. It’s no acceptable here either.
-o	I do greatly appreciate an email if you are going to be late, need to leave early or absent from class.
+	o	If you find yourself emailing me a problem or an issue that exceeds 5 sentences, you need to meet with me, in person, to discuss that topic.  Please contact me about setting up a time. I’d happily meet you in person, during office hours, before class or after class. Do not assume that it’s okay to tell me about some major issue at a deadline. Ex. 10:10am on Critique day. It is not okay. Would you do that to your boss or client? No. It’s no acceptable here either.
+	o	I do greatly appreciate an email if you are going to be late, need to leave early or absent from class.
 -	Use Github for reference to the syllabus, as well as turning in assignments. You can find the class repository at https://github.com/CATIISP15
 -	Use Wordpress to document your projects with images and video
 
@@ -166,8 +166,9 @@ In the first week, you will either volunteer or be assigned to 2 people from the
 - XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)
 
 ### Blog, Sketchbook, Evernote
-	You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
-	Create a (free) blog only for this class at WordPress. You will be using this to document your process and products. Make sure you label each picture and write about each post.
+You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
+
+Create a (free) blog only for this class at WordPress. You will be using this to document your process and products. Make sure you label each picture and write about each post.
 
 ### Self-Assessments – MidTerm and Final
 
@@ -208,7 +209,7 @@ The prototype is a working framework or proof of concept. This isn’t your idea
 -	Brainstormed how to possibly work out issues/hairballs
 -	Final: 1 input and 1 output working
 
-Deliverables for the Final Projects (submitted through github, final project repo, on your own branch)
+### Deliverables for the Final Projects (submitted through github, final project repo, on your own branch)
 
 -	Concept in 3-6 sentences
 -	Links to influences and similar works – both conceptual and technical
@@ -216,21 +217,21 @@ Deliverables for the Final Projects (submitted through github, final project rep
 -	All media required for the final
 -	Documentation of the final projects: Video and Images showcasing interaction timeline – include a blog link to your post
 -	A folder titled “Development” with the following inside of it:
-o	Initial working patches and previous versions
-o	Documentation of things working: Video and Images showcasing development: circuits, working circuits, initial set-ups in space, physical items in those spaces
-o	Sketches, including initial comic book and subsequent sketches
+	o	Initial working patches and previous versions
+	o	Documentation of things working: Video and Images showcasing development: circuits, working circuits, initial set-ups in space, physical items in those spaces
+	o	Sketches, including initial comic book and subsequent sketches
 
-### Project Descriptions
+## Project Descriptions
 
-## Change a Space
+### Change a Space
 
 Using brown roll paper as your main tool/item, transform a space. Think about how people move through the space. Create a mood or emotional by changing the architecture of the space. You may use hot glue, tacks, stapler guns, natural light, string, fishing line, tearing, scissors, etc for assemblage
 
-## Final
+### Final
 
 Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret Morse “The Poetics of Interactivity”, create an interactive installation that responds to the viewer based on some form of input. Remember the tales of Myron Krueger with his installation inputs and outputs in “Responsive Environments.” The interaction must be meaningful with the content and the output should be engaging to a group of people. This environment should use either digital or physical inputs that create an engaging experience with the viewer. Think of how the output and the input cover an area or space. 
  
-### Course Resources
+## Course Resources
 -	http://www.kobakant.at/DIY/?p=792 – DIY custom switches 
 -	https://cycling74.com/docs/max5/tutorials/max-tut/maxindex.html
 -	https://cycling74.com/docs/max5/tutorials/msp-tut/mspindex.html
@@ -245,18 +246,18 @@ Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret M
 -	 http://hackaday.com/  - Great blog about working projects
 - 	http://hackingforartists.com/ - Awesome. Tons of info
 
-### Required Readings
-	“The Poetics of Interactivity” by Margaret Morse
-	“Responsive Environments” by Myron Krueger
+## Required Readings
+“The Poetics of Interactivity” by Margaret Morse
+“Responsive Environments” by Myron Krueger
 “Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
 MidTerm
-	“Computer Vision” by Golan Levin (http://www.flong.com/texts/essays/essay_cvad/)
-	“History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
+“Computer Vision” by Golan Levin (http://www.flong.com/texts/essays/essay_cvad/)
+“History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
 
  
-### Schedule (subject to change):
+## Schedule (subject to change):
 
-## Week 1: January 16 – Hello, Defining Interactive Installation
+### Week 1: January 16 – Hello, Defining Interactive Installation
 
 Links
 Previous works
