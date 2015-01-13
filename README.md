@@ -174,12 +174,12 @@ In the first week, you will either volunteer or be assigned to 2 people from the
 - XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) 
 - XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)
 
-### Blog, Sketchbook, Evernote
+## Blog, Sketchbook, Evernote
 You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
 
 Create a (free) blog only for this class at WordPress. You will be using this to document your process and products. Make sure you label each picture and write about each post.
 
-### Self-Assessments – MidTerm and Final
+## Self-Assessments – MidTerm and Final
 
 After the MidTerm and on the last day of class, submit a self-assessment addressing the following, via email. Please be professional, honest and self-reflective.
 
@@ -191,7 +191,7 @@ After the MidTerm and on the last day of class, submit a self-assessment address
 6.	What are your open issues?
 7.	How has your knowledge towards the subject changed?
  
-### Deliverables for the Roundtable Discussions for Final Projects
+## Deliverables for the Roundtable Discussions for Final Projects
 
 Roundtable discussions will take place the week after the Spring Break and the Final Project briefs are released. These are in class discussions regarding your ideas for these projects. It’s an opportunity to bounce ideas off the group in order to get good feedback. This ensures a strong project that meets the minimum project requirements while investigating your conceptual interests.
 
@@ -205,7 +205,7 @@ You must have 3 separate/different ideas for EACH roundtable. Post the materials
 -	What space would this use on campus?
 -	What is the interface?
 
-### Prototypes
+## Prototypes
 For your Final Projects, you need to break down your idea into discernable steps/milestones in order to bring it into fruition. Each stage/milestone needs to be achieved before moving onto the next. This allows for the focused construction of your idea. I will assist you in identifying these steps/milestones, on a case-by-case basis based on your project idea.
 
 The prototype is a working framework or proof of concept. This isn’t your idea in full complex working form, but it is assembled enough so that the concept is evident. Bugs still need to be worked out. More media needs to be added. Perhaps some sophisticated stages have yet to be reached. But, some hurdles have been crossed, by this point, and you have a clear idea of what you need to be working on and where you need to be focusing the remainder of your time. (continued)
@@ -218,7 +218,7 @@ Deliverables for Prototypes:
 -	Brainstormed how to possibly work out issues/hairballs
 -	Final: 1 input and 1 output working
 
-### Deliverables for the Final Projects (submitted through github, final project repo, on your own branch)
+## Deliverables for the Final Projects (submitted through github, final project repo, on your own branch)
 
 -	Concept in 3-6 sentences
 -	Links to influences and similar works – both conceptual and technical
