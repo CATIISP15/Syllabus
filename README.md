@@ -259,38 +259,40 @@ MidTerm
 
 ### Week 1: January 16 – Hello, Defining Interactive Installation
 
-Links
-Previous works
-Questions – What is interactivity? How do we make something interactive? Why do we make something interactive?
-Syllabus
-Introductions
-Show & Tell - I: Jeffery Shaw & Myron Kruger
+- Links
+- Previous works
+- Questions – What is interactivity? How do we make something interactive? Why do we make something interactive?
+- Syllabus
+- Introductions
+- Show & Tell - I: Jeffery Shaw & Myron Kruger
 
-Homework: 
-Workshop – Create a space, change a space
-Read: “The Poetics of Interactivity” by Margaret Morse
-Sign up for show and tell 
+#### Homework: 
+- Workshop – Create a space, change a space
+- Read: “The Poetics of Interactivity” by Margaret Morse
+- Sign up for show and tell 
+- Sign up for Github & Send me your handle
+- Create a blog at Wordpress. Send me the link
 
-Week 2: January 23 – II: United Visual Artist & SOFTLab
+### Week 2: January 23 – II: United Visual Artist & SOFTLab
 
 Installations, Workshop Project 1: Create a space, change a space
 
-Homework: 
-	Read: “The Poetics of Interactivity” by Margaret Morse
-	Do:
-Work on Project 1
-Bring in needle, needle threader, scissors, small paintbrush, clip leads, small breadboard, 9V battery 
+#### Homework: 
+	
+- Read: “The Poetics of Interactivity” by Margaret Morse
+	
+- Work on Project 1
+- Bring in needle, needle threader, scissors, small paintbrush, clip leads, small breadboard, 9V battery 
 
-Week 3: January 30 – III: Sabrina Raaf & David Rokeby 
+### Week 3: January 30 – III: Sabrina Raaf & David Rokeby 
 IV: Rafael Lozano-Hemmer & Nils Voelker
 
-Critique: Project 1: Create a space, change a space 
-Discussion: Margaret Morse Reading
-Workshop PM: Basic Circuits, DIY switches
+- Critique: Project 1: Create a space, change a space 
+- Discussion: Margaret Morse Reading
+- Workshop PM: Basic Circuits, DIY switches
 
-Homework:
-	Read: “Responsive Environments” by Myron Krueger
-	Do: 
+#### Homework:
+Read: “Responsive Environments” by Myron Krueger
 Exercise 1: Create 2 different DIY switches that turn on an LED
 Work on Developing DIY Switches. Post progress images and video to your blog.
  
