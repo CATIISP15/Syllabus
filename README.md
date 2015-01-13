@@ -256,12 +256,11 @@ Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret M
 - 	http://hackingforartists.com/ - Awesome. Tons of info
 
 ## Required Readings
-“The Poetics of Interactivity” by Margaret Morse
-“Responsive Environments” by Myron Krueger
-“Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
-MidTerm
-“Computer Vision” by Golan Levin (http://www.flong.com/texts/essays/essay_cvad/)
-“History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
+- “The Poetics of Interactivity” by Margaret Morse
+- “Responsive Environments” by Myron Krueger
+- “Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
+- “Computer Vision” by Golan Levin (http://www.flong.com/texts/essays/essay_cvad/)
+- “History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
 
  
 ## Schedule (subject to change):
