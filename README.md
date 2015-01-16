@@ -38,10 +38,10 @@ This course assumes no prior knowledge of Max/MSP, programming and electronics. 
 -	Show and Tell – 1++ presentations – see below
 -	Self Assessments – see below
 -	A working copy of Max/MSP/Jitter
--	Download & install the cv.jit library - http://jmpelletier.com/cvjit/
--	Download & install the jit.freenect.grad - http://jmpelletier.com/category/software/
+-	Download & install the cv.jit [library](http://jmpelletier.com/cvjit/)
+-	Download & install the [jit.freenect.gra](http://jmpelletier.com/category/software/)
 -	A github account
--	A wordpress blog
+-	[A wordpress blog](https://wordpress.org/)
 -	Gathering media and materials to make happen – videos, audio, objects, etc.
 -	Physical notebook or sketch book & Evernote
 -	Staple guns, string, tacks, hot glue guns, fishing line, etc
@@ -256,11 +256,11 @@ Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret M
 - 	http://hackingforartists.com/ - Awesome. Tons of info
 
 ## Required Readings
-- “The Poetics of Interactivity” by Margaret Morse
-- “Responsive Environments” by Myron Krueger
-- “Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
-- “Computer Vision” by Golan Levin (http://www.flong.com/texts/essays/essay_cvad/)
-- “History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
+- “The Poetics of Interactivity” by Margaret Morse (email)
+- “Responsive Environments” by Myron Krueger (email)
+- [Transforming Mirrors” by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
+- [Computer Vision” by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
+- [History of the Interface in Interactive Art by Soke Dinkla] (http://www.kenfeingold.com/dinkla_history.html)
 
  
 ## Schedule (subject to change):
@@ -279,8 +279,8 @@ Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret M
 - Workshop – Create a space, change a space
 - Read: “The Poetics of Interactivity” by Margaret Morse
 - Sign up for show and tell via the Google Calendar
-- Sign up for Github & Send me your handle
-- Create a blog at Wordpress. Send me the link
+- Sign up for [Github](https://github.com/) & Send me your handle
+- Create a blog at [Wordpress](https://wordpress.org/). Send me the link
 
 ### Week 2: January 23 – II: United Visual Artist & SOFTLab
 
@@ -311,7 +311,7 @@ Work on Developing DIY Switches. Post progress images and video to your blog.
 
 #### Homework:
 Reading: 
-“Transforming Mirrors” by David Rokeby (available on the web: http://homepage.mac.com/davidrokeby/mirrors.html)
+[Transforming Mirrors” by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
 - Read and work through Max Tutorials: 1-6
 - Finish Exercise 1: DIY switches
 - Work through Max Tutorials: 1-6
