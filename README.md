@@ -282,9 +282,10 @@ Reflecting on the David Rokeby reading “Transforming Mirrors” and Margaret M
 - Sign up for Github & Send me your handle
 - Create a blog at Wordpress. Send me the link
 
-### Week 2: January 23 – II: United Visual Artist & SOFTLab
+### Week 2: January 23 
 
 Installations, Workshop Project 1: Create a space, change a space
+Show & Tell - I: Jeffery Shaw & Myron Kruger
 
 #### Homework: 
 	
@@ -293,7 +294,17 @@ Installations, Workshop Project 1: Create a space, change a space
 - Sign up for show and tell via the Google Calendar
 - Bring in needle, needle threader, scissors, small paintbrush, clip leads, small breadboard, 9V battery 
 
-### Week 3: January 30 – III: Sabrina Raaf & David Rokeby & IV: Rafael Lozano-Hemmer & Nils Voelker
+### Wednesday January 28th - Visiting Artist [Shannon Carroll](http://shannonleecarroll.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Shannon Carroll is an award-winning artist and media producer based in Brooklyn, 
+		NY. She works with media to foster empathy and engagement. Her creative roots lie 
+		in photography, and her current work involves design, interactive media, digital 
+		storytelling and documentary filmmaking. Shannon is Creative Director at Vivid 
+		Story, a creative studio specializing in video, photography and design for causes that 
+		matter.
+
+### Week 3: January 30 – II: United Visual Artist & SOFTLab 
 
 - Critique: Project 1: Create a space, change a space 
 - Discussion: Margaret Morse Reading
@@ -304,7 +315,7 @@ Installations, Workshop Project 1: Create a space, change a space
 - Exercise 1: Create 2 different DIY switches that turn on an LED
 Work on Developing DIY Switches. Post progress images and video to your blog.
  
-### Week 4: February 6 - V: Camille Utterback & Tangible Interaction & VI: Electroland & YesYesNo
+### Week 4: February 6 - III: Sabrina Raaf & David Rokeby & IV: Rafael Lozano-Hemmer & Nils Voelker 
 - Discussion: Responsive Environments
 - Workshop AM: DIY Switches 
 - Workshop PM: Introduction to Max/MSP - bangs, buttons, integers, floats, selects, prints, if statements, counter, route, lists
@@ -316,8 +327,7 @@ Reading:
 - Finish Exercise 1: DIY switches
 - Work through Max Tutorials: 1-6
 
-### Week 5: February 13 – VII: Deep Local & Niklas Roy | 
-VIII: Daily tous les Jours (Mouna Andraos) & Random International
+### Week 5: February 13 – V: Camille Utterback & Tangible Interaction & VI: Electroland & YesYesNo 
 
 - Discussion: Transforming Mirrors
 - Workshop AM: Critique – Exercise 1: Switches
@@ -330,8 +340,19 @@ VIII: Daily tous les Jours (Mouna Andraos) & Random International
 - Read and work through Max Tutorials: 8; MSP Tutorials: 1-2, 14, 16
 		
 
-### Week 6: February 20 – IX: Design I/O & Golan Levin & X: The Exploratorium & Disney Research
+### Wednesday February 18th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
 
+		Hanan Harchol is a multimedia visual artist, born in Israel, who moved to the U.S. as 
+		a child. Harchol creates paintings, drawings, animations, videos, and multimedia 
+		installations that use family narratives to explore the human condition from a 
+		psychological, philosophical, and existential perspective. Harchol’s animated series 
+		“Jewish Food For Thought” combines Jewish wisdom on topics such as apology, 
+		forgiveness, gratitude, love, fear, humility with his artmaking (i.e. animations of his 
+		Israeli nuclear physicist father and son, having arguments).
+
+### Week 6: February 20 – VII: Deep Local & Niklas Roy | 
+VIII: Daily tous les Jours (Mouna Andraos) & Random International 
 - Workshop: Max/MSP and Sound 
 
 #### Homework:
@@ -350,7 +371,8 @@ Max/MSP and control structures/objects – sub-patchers, abstractions, mini-patc
 
 - Read and Work through Jitter Tutorials: 1 – 15, 21
 
-### Week 8: March 6 - XI: eCloud, Julius Popp, Jim Campbell  
+### Week 8: March 6 - IX: Design I/O & Golan Levin & X: The Exploratorium & Disney Research
+ 
 
 - Workshop: Max/MSP & Jitter – basics, iter, 3m, rota, op, brocosa
 - Final Project Brief released
@@ -366,7 +388,21 @@ Max/MSP and control structures/objects – sub-patchers, abstractions, mini-patc
 
 
 ### SPRING BREAK – March 9 - 13
-### Week 9: March 20  – 
+
+### Wednesday March 18th - Visiting Artist [Chris Doyle](http://chrisdoylestudio.com)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Chris Doyle is an interdisciplinary artist based in Brooklyn, New York. His recent 
+		work explores the cultural construction of landscape. His work includes temporary 
+		and permanent projects in the public sphere BRIGHT CANYON, presented by the 
+		Times Square Alliance (2014); LEAP, presented by Creative Time in Columbus Circle 
+		(2000) and Commutable, presented by the Public Art Fund on the Lower East Side 
+		(1996), all in New York City. His work has also been shown at The Brooklyn 
+		Museum of Art, The Queens Museum of Art, P.S.1 Museum of Contemporary Art, the 
+		Kupferstichkabinett Berlin, Germany, and as part of the New York Video Festival at 
+		Lincoln Center.
+
+### Week 9: March 20  – XI: eCloud, Julius Popp, Jim Campbell  
 
 - Physical Computing Workshop: Max integration; Sensor input into Max
 - Final Project Roundtable 
@@ -383,6 +419,20 @@ Max/MSP and control structures/objects – sub-patchers, abstractions, mini-patc
 #### Homework:
 - Work on Exercise 7 & Final
 - Read: “History of the Interface in Interactive Art” by Soke Dinkla → http://www.kenfeingold.com/dinkla_history.html
+
+### Wednesday April 8th - Visiting Artist [Katherine Bennett](http://www.katherinebennett.net)
+	- 12 noon lecture in the Robert Van Fossan Theater (Franklin street, next door)
+
+		Katherine Bennett, an electronic artist with a background in interactive light 
+		environments, engrossed herself in programming and sound to widen her studio 
+		practice. Her work explores the social relationships engendered when time is 
+		blurred, frozen, collapsed and expanded. Her interests pertain to the non-physical 
+		presence of thought and memory. Bennett widens notions of habitable spaces: 
+		involving the intangible spaces within the mind and the liminal spaces created by 
+		digital communities. She uses sound and light as visceral rubble to foster 
+		relationships across these spaces, creating a presence across a trajectory of time. 
+		Her latest environments deal with the terrain of memory - it's absence, degradation 
+		and the new space that this loss provides for new experiences.
 
 ### Week 11: April 10 - XII: Universal Everything, Karolina Sobekecka (Flightphase), Nemore
 
