@@ -379,6 +379,8 @@ Reading:
 - Exercise 2: Create a Max patch that prints out the numbers 1 to 100 (inclusive). If the number is divisible by 3, printCrackle instead of the number. If it's divisible by 5, print Pop. If it's divisible by both 3 and 5, printCracklePop. Submit through the the GitHub repo.
 
 - Read and work through Max Tutorials: 8; MSP Tutorials: 1-2, 14, 16
+
+- Fill out the Mid-Term Self Assessment. Email it to me.
 		
 
 ### Wednesday February 18th - Visiting Artist [Hanan Harchol](http://jewishfoodforthought.com)
@@ -394,6 +396,7 @@ Reading:
 
 ### Week 6: February 20 – VII: Deep Local & Niklas Roy | 
 VIII: Daily tous les Jours (Mouna Andraos) & Random International 
+**MidTerm Self-Assessment Due**
 - Workshop: Max/MSP and Sound 
 
 #### Homework:
