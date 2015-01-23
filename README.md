@@ -67,6 +67,36 @@ Students who believe they are eligible for course accommodations under the ADA o
 
 Even if you think you have a handle on your situation, please see the OSD. They will communicate what I need to do, in order to be sensitive to your needs. This is important in creating an equal opportunity environment. I cannot do so without this material.
 
+### Other Support Services for students
+
+·      [Personal Counseling:](http://bloomfield.edu/content/personal-counseling) If you are struggling with a personal issue and need to speak with someone, Bloomfield College offers free and confidential counseling to all students. For more information, contact Sharon McNulty, the Director of Personal Counseling, at Sharon_McNulty@bloomfield.edu.
+
+·      [Health Services:](http://bloomfield.edu/content/health-services) If you are feeling ill, make an appointment at the College’s health services office. For more information contact Robert Martinez at Robert_Martinez@bloomfield.edu.
+
+
+·      The Student Support Services (SSS) Grant was awarded to Bloomfield College in the 2000-2001 academic year. The program was named [STAR (Students To Achieve Renown)](http://bloomfield.edu/academics/academic-centers/special-programs/star). The program fosters the attainment of academic and personal success via student centered activities and services so that each participant may successfully acquire their baccalaureate degree.
+
+What is STAR?
+
+The STAR Program is a TRIO federally funded project that endeavors to increase the retention and graduation rates of its participants while facilitating the process of transition from one academic level to the next. A comprehensive student support services program that provides opportunities for academic development, assists students with basic college requirements, and serves to guide and motivate students towards the successful completion of their college education. In particular, the project aims to advance objectives related to needs assessment, good academic standing, persistence and graduation.
+
+    Academic Advising and Personal Counseling
+    Mentoring and Coaching
+    Instruction in Academic Foundation Courses
+    Academic Skill Building & Study Skills Workshops
+    Financial Literacy Workshops                                                                                                        
+    Math, English & Technology Tutorials
+    Pre-Nursing Support Group
+    Student-Staff Roundtables
+    Career Guidance
+    Participant Computer Lab
+    Leadership & Cultural Enrichment Activities
+    Grant Aid to Pell-Eligible Students
+    Assistance in understanding and completing your FAFSA
+    Graduate/Professional School Enrollment Assistance
+
+    For more information, contact Christina_Dilkes@bloomfield.edu. 
+
 ### Course Structure
 
 This is a studio course. Students will work on individual projects and group collaborations. Work will be completed both inside and outside of the class. Class will be a mix of lectures, class discussion, Show & Tell, workshops, studio time and critiques. Guest critics may be present.
