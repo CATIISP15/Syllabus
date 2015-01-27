@@ -203,17 +203,17 @@ In the first week, you will either volunteer or be assigned to 2 people from the
 
 - I.	Jeffery Shaw & Myron Kruger (pioneers)
 - II.	United Visual Artist & SOFTLab (installation)
-- III.	Sabrina Raaf & David Rokeby (interactive installations)
-- IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-- V.	Camille Utterback & Tangible Interaction (interactive installations)
+- III.	Sabrina Raaf & David Rokeby (interactive installations) - Francesca
+- IV.	Rafael Lozano-Hemmer & Nils Voelker (interactive installations) - Jose
+- V.	Camille Utterback & Tangible Interaction (interactive installations) - Diannmarie
 - VI.	Electroland & YesYesNo (interactive installations)
-- VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
-- VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful)
-- IX.	Design I/O & Golan Levin (playful)
-- X.	The Explorartorium & Disney Research (Design for others)
+- VII.	Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun) - Murph
+- VIII.	Daily tous les Jours (Mouna Andraos) & Random International (playful) - Dahron
+- IX.	Design I/O & Golan Levin (playful) - Terreassa
+- X.	The Explorartorium & Disney Research (Design for others) - Hydeeah
 - XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell (Objects to Systems)
-- XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) 
-- XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems)
+- XII.	Universal Everything & Karolina Sobekecka (Flightphase (with Jeff Crouse)) & Nemore (behavior) - Emily
+- XIII.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw (esp Carnival Aquarium) (choice, systems) - Maximo
 
 ## Blog, Sketchbook, Evernote
 You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
