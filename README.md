@@ -353,8 +353,9 @@ Show & Tell - I: Jeffery Shaw & Myron Kruger
 
 #### Homework:
 - Read: “Responsive Environments” by Myron Krueger
+        - [How to Get what You Want, Switches](http://www.kobakant.at/DIY/?cat=26)
 - Exercise 1: Create 2 different DIY switches that turn on an LED
-Work on Developing DIY Switches. Post progress images and video to your blog.
+Work on Developing DIY Switches. Post progress images and video to your blog. Bring materials to class!
  
 ### Week 4: February 6 - III: Sabrina Raaf & David Rokeby & IV: Rafael Lozano-Hemmer & Nils Voelker 
 - Discussion: Responsive Environments
