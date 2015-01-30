@@ -39,7 +39,7 @@ This course assumes no prior knowledge of Max/MSP, programming and electronics. 
 -	Self Assessments – see below
 -	A working copy of Max/MSP/Jitter
 -	Download & install the cv.jit [library](http://jmpelletier.com/cvjit/)
--	Download & install the [jit.freenect.gra](http://jmpelletier.com/category/software/)
+-	Download & install the [jit.freenect.grab](http://jmpelletier.com/category/software/)
 -	A github account
 -	[A wordpress blog](https://wordpress.org/)
 -	Gathering media and materials to make happen – videos, audio, objects, etc.
@@ -353,9 +353,10 @@ Show & Tell - I: Jeffery Shaw & Myron Kruger
 
 #### Homework:
 - Read: “Responsive Environments” by Myron Krueger
-        - [How to Get what You Want, Switches](http://www.kobakant.at/DIY/?cat=26)
+Aldo read: [How to Get what You Want, Switches](http://www.kobakant.at/DIY/?cat=26)
+
 - Exercise 1: Create 2 different DIY switches that turn on an LED
-Work on Developing DIY Switches. Post progress images and video to your blog. Bring materials to class!
+Work on Developing DIY Switches. Post progress images and video to your blog. Bring materials to class! 
  
 ### Week 4: February 6 - III: Sabrina Raaf & David Rokeby & IV: Rafael Lozano-Hemmer & Nils Voelker 
 - Discussion: Responsive Environments
